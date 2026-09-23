@@ -1,0 +1,6 @@
+id = "all-maps-are-invadable"
+name = "All maps are invadable"
+version = "1.0.2"
+game_build = "VoidEngine v1.820.5.1 Content v551_Retail_env2_playfab"
+entry = "main.lua"
+description = "Allows invasions in all 14 regular district/time maps."
